@@ -2,6 +2,7 @@ name: Push Notification
 
 on: [push]
 
+
 jobs:
   notify:
     runs-on: ubuntu-latest
